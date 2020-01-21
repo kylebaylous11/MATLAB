@@ -1,0 +1,164 @@
+CellData
+ 
+elementC{1} =
+ 
+Hydrogen 
+Helium   
+Lithium  
+Beryllium
+Boron    
+Carbon   
+Nitrogen 
+Oxygen   
+Fluorine 
+Neon     
+ 
+ 
+elementC{2} =
+ 
+H 
+He
+Li
+Be
+B 
+C 
+N 
+O 
+F 
+Ne
+ 
+ 
+elementC{3} =
+ 
+     1
+     2
+     3
+     4
+     5
+     6
+     7
+     8
+     9
+    10
+
+ 
+ 
+elementC{4} =
+ 
+    1.0079
+    4.0026
+    6.9410
+    9.0122
+   10.8110
+   12.0110
+   14.0070
+   15.9990
+   18.9980
+   20.1800
+
+ 
+Please input the element number you wish to see info for: [1 6 8]
+The element with atomic number 1 is Hydrogen 
+This element has the symbol H and mass number 1.008
+
+The element with atomic number 6 is Carbon   
+This element has the symbol C and mass number 12.011
+
+The element with atomic number 8 is Oxygen   
+This element has the symbol O and mass number 15.999
+
+StructData
+
+elementS = 
+
+  1×10 <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> array with fields:
+
+    Name
+    Symbol
+    Number
+    Mass
+
+      Name: 'Hydrogen'
+    Symbol: 'H'
+    Number: 1
+      Mass: 1.0079
+
+      Name: 'Helium'
+    Symbol: 'He'
+    Number: 2
+      Mass: 4.0026
+
+      Name: 'Lithium'
+    Symbol: 'Li'
+    Number: 3
+      Mass: 6.9410
+
+      Name: 'Beryllium'
+    Symbol: 'Be'
+    Number: 4
+      Mass: 9.0122
+
+      Name: 'Boron'
+    Symbol: 'B'
+    Number: 5
+      Mass: 10.8110
+
+      Name: 'Carbon'
+    Symbol: 'C'
+    Number: 6
+      Mass: 12.0110
+
+      Name: 'Nitrogen'
+    Symbol: 'N'
+    Number: 7
+      Mass: 14.0070
+
+      Name: 'Oxygen'
+    Symbol: 'O'
+    Number: 8
+      Mass: 15.9990
+
+      Name: 'Fluorine'
+    Symbol: 'F'
+    Number: 9
+      Mass: 18.9980
+
+      Name: 'Neon'
+    Symbol: 'Ne'
+    Number: 10
+      Mass: 20.1800
+
+elementS(1)
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+      Name: 'Hydrogen'
+    Symbol: 'H'
+    Number: 1
+      Mass: 1.0079
+
+elementS(6)
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+      Name: 'Carbon'
+    Symbol: 'C'
+    Number: 6
+      Mass: 12.0110
+
+elementS(8)
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+      Name: 'Oxygen'
+    Symbol: 'O'
+    Number: 8
+      Mass: 15.9990
+
+diary off

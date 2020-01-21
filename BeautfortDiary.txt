@@ -1,0 +1,9 @@
+BeaufortWindScale
+Please Enter The Wind Speed(mph): 65
+The wind speed of 65.00 mph is equal to 56.42 knots
+The wind speed of 65.00 mph is equal to 104.58 km/h
+This strength of wind has a Scale Force of: 11
+This type of wind is classified as: Violent Storm
+diary off
+
+The classification of this wind speed is a violent storm.

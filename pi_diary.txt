@@ -1,0 +1,14 @@
+PI_inves
+By using Machin's formula, pi divided by 4 is approximately 0.78539816
+Therefore, pi can be approximated as 3.14159265
+
+Please enter the amount of terms to approximate with: 5
+With 5 terms, the approximation for pi is 3.33968
+
+Please enter the amount of terms to approximate with: 10
+With 10 terms, the approximation for pi is 3.04184
+
+Please enter the amount of terms to approximate with: 15
+With 15 terms, the approximation for pi is 3.20819
+diary off
+

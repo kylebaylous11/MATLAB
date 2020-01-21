@@ -1,0 +1,29 @@
+BankInt
+Please enter the principal amount: 1000
+Please enter the interest rate(%): 6
+Please enter the term of year: 5
+Please enter amount of times compounded in a year: 4
+The principal amount of $1000.00 in 5.0 years with an interest rate of 6.00% becomes $1346.86 when the interest is compounded 4.0 times a year.
+Your earning amount is: $346.86
+
+BankInt
+Please enter the principal amount: 1000
+Please enter the interest rate(%): 6
+Please enter the term of year: 5
+Please enter amount of times compounded in a year: 365
+The principal amount of $1000.00 in 5.0 years with an interest rate of 6.00% becomes $1349.83 when the interest is compounded 365.0 times a year.
+Your earning amount is: $349.83
+
+BankInt
+Please enter the principal amount: 1000
+Please enter the interest rate(%): 6
+Please enter the term of year: 5
+Please enter amount of times compounded in a year: 1
+The principal amount of $1000.00 in 5.0 years with an interest rate of 6.00% becomes $1338.23 when the interest is compounded 1.0 times a year.
+Your earning amount is: $338.23
+
+diary off
+
+The earning amount when compounding daily is the most, while the earning amount when compounding annually is the least.
+
+

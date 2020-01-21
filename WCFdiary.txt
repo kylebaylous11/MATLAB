@@ -1,0 +1,24 @@
+WCF
+Please enter the temperature in Fahrenheit: 32
+Please enter the wind speed in mph: 5
+Are you sure that your units are correct?
+Enter 1 for Yes or 2 for No: 1
+With a temperature of 32.00 degrees and a wind speed of 5.00 mph, it feels like 26.52 degrees outside.
+NO frostbite warning
+
+WCF
+Please enter the temperature in Fahrenheit: 0
+Please enter the wind speed in mph: 18
+Are you sure that your units are correct?
+Enter 1 for Yes or 2 for No: 1
+With a temperature of 0.00 degrees and a wind speed of 18.00 mph, it feels like -20.99 degrees outside.
+Skin can freeze in 30 minutes
+
+WCF
+Please enter the temperature in Fahrenheit: -12
+Please enter the wind speed in mph: 33
+Are you sure that your units are correct?
+Enter 1 for Yes or 2 for No: 1
+With a temperature of -12.00 degrees and a wind speed of 33.00 mph, it feels like -42.99 degrees outside.
+Skin can freeze in 10 minutes
+diary off

@@ -1,0 +1,7 @@
+Animal	Weight/kg	Metabolism/watt
+Cow	400	270
+Human	70	82
+Sheep	45	50
+Hen	2	4.8
+Rat	0.3	1.45
+Dove	0.16	0.97
